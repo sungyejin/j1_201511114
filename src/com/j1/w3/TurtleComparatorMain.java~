@@ -1,8 +1,8 @@
-package com.sd.sort.v2;
+package com.j1.w3;
 import java.util.Date;
 import com.sd.turtle.WeightTurtle;
 
-public class SorterMainV2 {
+public class TurtleComparatorMain {
     public static void main(String[] args) {
 
         WeightTurtle wt30 = new WeightTurtle(30);
